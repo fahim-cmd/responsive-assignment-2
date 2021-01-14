@@ -4,7 +4,7 @@
     font-family: 'Oswald', sans-serif;
 }
 header{
-    background-color:#fbf5ea;
+    background-color:#FFFBF0;
     padding-bottom: 30px;
 }
 .nav-link{ 
@@ -13,7 +13,7 @@ header{
 .btn-design{
     border: none;
     border-radius:5px;
-    background-color:#b2c23c;
+    background-color:#A4BC46;
     color: white;
     width:auto;
     height: 40px;
@@ -22,10 +22,10 @@ header{
 }
 .women-jacket-img{
     width: 80%;
-    height: 60%;
+    height: 280px;
     margin: 15px 0 0 30px;
     padding: 13px;
-    background-color: rgb(235, 235, 235);
+    background-color: #F1F1F1;
     border-radius: 12px;
 }
 .card{
